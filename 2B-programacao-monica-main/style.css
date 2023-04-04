@@ -1,0 +1,16 @@
+: root {
+    --rosa-mais-claro: #ffe5ec;
+    --rosa-claro: #ffc2d1;
+    --rosa: #fbc3c6;
+    --rosa-escuro: #ff8fab;
+    --rosa-mais-escuro: #fb6f92;
+
+}
+.cabecalho{
+
+    background-color: var(--rosa);
+}
+.logo{
+    width: 100%;
+}
+    
