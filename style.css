@@ -1,1 +1,29 @@
+:root {
+    --rosa-mais-claro: #ffe5ec;
+    --rosa-claro: #ffc2d1;
+    --rosa: #fbc3c6;
+    --rosa-escuro: #ff8fab;
+    --rosa-mais-escuro: #fb6f92;
 
+}
+
+.cabecalho{
+
+    background-color: var(--rosa);
+    display:flex;
+    justify-content: space-between;
+}
+.menu-item{
+    display: inline-block;
+    padding: 5px 20px;
+    margin-top: 25px;
+    color: black;
+    font-size: 20px;
+
+}
+
+.logo{
+    width: 7%;
+    margin: 10px;
+}
+    
