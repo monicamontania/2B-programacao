@@ -26,4 +26,17 @@
     width: 7%;
     margin: 10px;
 }
+.principal
+background-color: var(--rosa-mais-claro);
+display: flex;
+justify-content: center;
+
+{
+    .principal-titulo{
+        font-size: 60px;
+    }
+}
+.principal-imagem{
+    
+}
     
